@@ -1,2 +1,2 @@
 # FirstWebDesign
-This is the first web page designed by me using only HTML AND CSS.
+This is the first web page designed by me using only HTML and CSS.
